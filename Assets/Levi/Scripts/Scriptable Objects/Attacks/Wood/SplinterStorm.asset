@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aed1869ee4d660e48b99928e186db074, type: 3}
+  m_Name: SplinterStorm
+  m_EditorClassIdentifier: 
+  damage: 10
+  attackName: Stuffing Storm
+  sound: {fileID: 8300000, guid: e88fb01176c3f2b4c8e1c323119e9952, type: 3}
+  element: 2
+  attackType: 1

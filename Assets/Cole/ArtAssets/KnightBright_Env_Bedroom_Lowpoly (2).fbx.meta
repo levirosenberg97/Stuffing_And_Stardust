@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 7b128675ee3b16847bcccf968e698f26
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: KnightBright_Bed
+    100002: KnightBright_BookBundle
+    100004: KnightBright_BookSingle
+    100006: KnightBright_CeilingLight
+    100008: KnightBright_CeilingPlanet
+    100010: KnightBright_CeilngMoon
+    100012: KnightBright_Curtains
+    100014: KnightBright_Dresser
+    100016: KnightBright_EndTable
+    100018: //RootNode
+    100020: KnightBright_Lamp
+    100022: KnightBright_Nightlight
+    100024: KnightBright_Room
+    100026: KnightBright_Shelf
+    100028: KnightBright_Toybox
+    400000: KnightBright_Bed
+    400002: KnightBright_BookBundle
+    400004: KnightBright_BookSingle
+    400006: KnightBright_CeilingLight
+    400008: KnightBright_CeilingPlanet
+    400010: KnightBright_CeilngMoon
+    400012: KnightBright_Curtains
+    400014: KnightBright_Dresser
+    400016: KnightBright_EndTable
+    400018: //RootNode
+    400020: KnightBright_Lamp
+    400022: KnightBright_Nightlight
+    400024: KnightBright_Room
+    400026: KnightBright_Shelf
+    400028: KnightBright_Toybox
+    2100000: Toybox_Color
+    2100002: lambert1
+    2100004: Dresser_Color
+    2100006: Room_Color
+    2100008: Nightlight_Color
+    2100010: Bedframe
+    2100012: BedChild
+    2100014: lambert10
+    2300000: KnightBright_Bed
+    2300002: KnightBright_BookBundle
+    2300004: KnightBright_BookSingle
+    2300006: KnightBright_CeilingLight
+    2300008: KnightBright_CeilingPlanet
+    2300010: KnightBright_CeilngMoon
+    2300012: KnightBright_Curtains
+    2300014: KnightBright_Dresser
+    2300016: KnightBright_EndTable
+    2300018: KnightBright_Lamp
+    2300020: KnightBright_Nightlight
+    2300022: KnightBright_Room
+    2300024: KnightBright_Shelf
+    2300026: KnightBright_Toybox
+    3300000: KnightBright_Bed
+    3300002: KnightBright_BookBundle
+    3300004: KnightBright_BookSingle
+    3300006: KnightBright_CeilingLight
+    3300008: KnightBright_CeilingPlanet
+    3300010: KnightBright_CeilngMoon
+    3300012: KnightBright_Curtains
+    3300014: KnightBright_Dresser
+    3300016: KnightBright_EndTable
+    3300018: KnightBright_Lamp
+    3300020: KnightBright_Nightlight
+    3300022: KnightBright_Room
+    3300024: KnightBright_Shelf
+    3300026: KnightBright_Toybox
+    4300000: KnightBright_Toybox
+    4300002: KnightBright_BookSingle
+    4300004: KnightBright_BookBundle
+    4300006: KnightBright_CeilingLight
+    4300008: KnightBright_CeilngMoon
+    4300010: KnightBright_CeilingPlanet
+    4300012: KnightBright_EndTable
+    4300014: KnightBright_Dresser
+    4300016: KnightBright_Room
+    4300018: KnightBright_Nightlight
+    4300020: KnightBright_Shelf
+    4300022: KnightBright_Lamp
+    4300024: KnightBright_Bed
+    4300026: KnightBright_Curtains
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
